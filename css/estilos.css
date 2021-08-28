@@ -16,7 +16,6 @@ a {
     max-width: 1300px;
     width: 96%;
     margin: 0 auto;
-    background: ;
 }
 header {
     width: 100%;
@@ -37,10 +36,12 @@ h1 {
 ul {
     padding: 15px;
     list-style: none;
+    
 }
 a {
     color: #bc5;
-    padding: 20px;
+    padding: 8px;
+    
     font-size: 20px;
 }
 a:hover {
