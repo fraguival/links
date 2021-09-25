@@ -36,7 +36,9 @@ h1 {
 ul {
     padding: 15px;
     list-style: none;
-    
+}
+li {
+    margin-bottom: 20px;
 }
 a {
     color: #bc5;
