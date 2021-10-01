@@ -17,50 +17,50 @@ a {
     width: 96%;
     margin: 0 auto;
 }
-header {
+.header {
     width: 100%;
-    background: #214;
+    background: #422;
 }
-h1 {
+.header__titulo {
     font-size: 48px;
-    color: #bc5;
+    color: #fff;
     padding: 2rem;
     text-align: center;
 }
-.menu {
+.navbar {
     width: 100%;
     display: block;
-    background: #437;
+    background: #866;
     text-align: center;
 }
-ul {
+.navbar__menu {
     padding: 15px;
     list-style: none;
 }
-li {
+.navbar__li {
     margin-bottom: 20px;
 }
-a {
-    color: #bc5;
+.navbar__a {
+    color: #fff;
     padding: 8px;
     
     font-size: 20px;
 }
-a:hover {
+.navbar__a:hover {
     background: rgba(0,0,0,.3);
 }
-footer {
+.footer {
     display: flex;
     justify-content: space-evenly;
     align-items: center;
     width: 100%;
-    background: #214;
+    background: #644;
     padding: 15px;
 }
-p {
+.footer__texto {
     font-size: 20px;
-    color: #bc5;
+    color: #fff;
 }
 img {
-    width: 24px;
+    width: 36px;
 }
